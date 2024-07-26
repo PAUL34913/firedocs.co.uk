@@ -27,8 +27,24 @@ html, body {
     padding: 0px;
 }
 
-.rmargin20 {
+.rmargin10 {
     margin-right: 10px;
+}
+
+.rmargin20 {
+    margin-right: 20px;
+}
+
+.lmargin20 {
+    margin-left: 20px;
+}
+
+.bmargin40 {
+    margin-bottom: 40px;
+}
+
+.center-text {
+    text-align: center;
 }
 
 a {
@@ -125,8 +141,8 @@ a {
     padding-bottom: 50px;
 }
 
-.blank {
-    height: 50px;
+.summarypara {
+    height: 200px;
 }
 
 .section-one {
@@ -148,7 +164,7 @@ a {
 
 
 .welcome-para {
-    margin: 20px 10px 20px 10px;
+    margin: 40px 10px 20px 10px;
 }
 
 .footer {
